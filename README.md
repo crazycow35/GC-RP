@@ -1,4 +1,4 @@
-# GC-RP
+# GC-RP Resource Pack
 Do not share this github for the files within it with anyone without ThreeLife's permission
 
 
